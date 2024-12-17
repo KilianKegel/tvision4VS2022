@@ -50,8 +50,7 @@ perf.data*
 callgrind.out*
 
 *.kdev4
-*.vcxproj*
-*.sln
+
 
 CMakeCache.txt
 CMakeFiles
